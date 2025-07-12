@@ -29,12 +29,7 @@ All required Python packages are listed in `requirements.txt`.
 
 ### Windows (PowerShell)
 
-1. Open PowerShell and navigate to the project directory:
-
-```powershell
-cd "D:\Github Repositories\RPS"
-```
-
+1. Open PowerShell and navigate to the project directory
 Create a virtual environment (if you haven't already):
 
 ```powershell
