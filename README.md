@@ -31,30 +31,30 @@ All required Python packages are listed in `requirements.txt`.
 
 1. Open PowerShell and navigate to the project directory:
 
-   ```powershell
-   cd "D:\Github Repositories\RPS"
-   ```
+```powershell
+cd "D:\Github Repositories\RPS"
+```
 
 Create a virtual environment (if you haven't already):
 
-   ```powershell
-    python -m venv venv
-   ```
+```powershell
+python -m venv venv
+```
 
 Activate the virtual environment:
 
-   ```powershell
-    .\venv\Scripts\Activate.ps1
-   ```
+```powershell
+.\venv\Scripts\Activate.ps1
+```
 
 Install the required packages:
 
-   ```powershell
-    pip install -r requirements.txt
-   ```
+```powershell
+pip install -r requirements.txt
+```
 
 Run the game:
 
-   ```powershell
-    python RPS.py
-   ```
+```powershell
+python RPS.py
+```
